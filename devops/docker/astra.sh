@@ -3,4 +3,4 @@
 # Based on https://wiki.astralinux.ru/pages/viewpage.action?pageId=158601444
 
 sudo apt update
-sudo apt install docker.io -y
+sudo apt install docker.io docker-compose -y
